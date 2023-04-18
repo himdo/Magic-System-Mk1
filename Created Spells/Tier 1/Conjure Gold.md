@@ -7,8 +7,10 @@ This is one of the weakest tier 1 spells, however it is not known to many.
 
 # Code
 ```
-FUNC Main () {
+DEFINE TYPE INCANTATION 
 
+FUNC Main () {
+  Token.Create(Material.GOLD)
 }
 ```
 
