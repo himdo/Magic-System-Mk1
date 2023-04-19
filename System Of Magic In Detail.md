@@ -1,10 +1,10 @@
-Behind the scenes Magic is really just a programming lanugage that can take in data from the world and the spell caster(s) and can output / intract with the physical world or metaphysical world.
+Behind the scenes Magic is really just a programming language that can take in data from the world and the spell caster(s) and can output / interact with the physical world or metaphysical world.
 
 An important note is that magic power available 
 
 # Grammar
 
-This language is easly described as a cross between C and Python but simplified to the core elements.
+This language is easily described as a cross between C and Python but simplified to the core elements.
 
 
 ```
@@ -18,7 +18,7 @@ defines a function with a given NAME with a list of parameters that runs a block
 Defines the type of spell:
 * SUSTAIN: a spell that doesn't end, uses X mana a second
 * RITUAL: a spell that takes total concentration, typically with multiple casters. Needs to be completed to have any affect. Uses X mana a second and Y mana to complete
-* INCANTATION: a spell that uses a single birst of mana to cast
+* INCANTATION: a spell that uses a single burst of mana to cast
 
 # TODO Finish Grammar
 
@@ -38,10 +38,11 @@ Using this system there are 4 Main Elements which can be combined for a countles
 - Water
 - Air
 - Earth
+- Space
 
 ## Sub Elements
 
 - Steam: Fire + Water
 
 
-# Intracting with the world
+# Interacting with the world
