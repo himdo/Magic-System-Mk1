@@ -10,3 +10,4 @@ There exists items which are made to hinder / hurt / kill its wielder.
 
 # Specialized Items
 ### Bag of Holding
+An item that is enchanted with the spell [[Dimensional Stash]]. This item contains a constant size however each Bag of Holding can have a different interior size depending on how much mana was given to the bag when it was enchanted. If this bag is ripped or destroyed then it will release a large amount of energy typically in the way of an explosion. The size of the energy depends on the size of the interior size and the items that it contains. The items inside the bag become unreachable when the bag is destroyed and most if not all items becomes apart of the energy that is released.s

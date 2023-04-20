@@ -4,47 +4,121 @@
     "type": "split",
     "children": [
       {
-        "id": "77effea9fae19674",
-        "type": "tabs",
+        "id": "60d816fc35cfe567",
+        "type": "split",
         "children": [
           {
-            "id": "08cfeede55d06325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions.md",
-                "mode": "source",
-                "source": false
+            "id": "77effea9fae19674",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "08cfeede55d06325",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Definitions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "607320c1f8634b24",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "System Of Magic In Detail.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3cea1b558626b368",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magical Items.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "36628736bf18ba41",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Created Spells/Tier ∞/Dimensional Stash.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "08d2d105083009bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Created Spells/Tier ∞/Dimensional Stash.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 4
           },
           {
-            "id": "607320c1f8634b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Of Magic In Detail.md",
-                "mode": "source",
-                "source": false
+            "id": "4f32e376a38a9aa5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a200cfbda86c6f68",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Projects\\Misc\\Magic-System-Mk1",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 250,
+                        "data": "\r\nC:\\Projects\\Misc\\Magic-System-Mk1>\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\n\r\n\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   Magical Items.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mCreated Spells/Template.md\r\n\u001b[8C\"Created Spells/Tier \\342\\210\\236/\"\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git add",
+                        "rows": 33
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
               }
-            }
-          },
-          {
-            "id": "3cea1b558626b368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Of Magic In Detail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -110,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Of Magic In Detail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +200,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Of Magic In Detail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +221,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "System Of Magic In Detail.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,13 +251,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3cea1b558626b368",
+  "active": "a200cfbda86c6f68",
   "lastOpenFiles": [
-    "Definitions.md",
+    "Created Spells/Tier ∞/Dimensional Stash.md",
     "Magical Items.md",
+    "Created Spells/Template.md",
+    "Definitions.md",
     "Created Spells/Tier 1/Conjure Gold.md",
     "Created Spells/Tier 0/Flame.md",
+    "Untitled.md",
     "System Of Magic In Detail.md",
+    "Created Spells/Tier ∞",
     "Created Spells/Tier 1",
     "Created Spells/Tier 0",
     "Definition Of Magic.md",
