@@ -9,7 +9,7 @@ Each tier of this spell that is cast becomes a unique stash which does not overl
 
 # Code
 ```
-DEFINE TYPE SUSTAIN
+DEFINE TYPE RITUAL
 
 FUNC Main () {
   
