@@ -25,3 +25,26 @@ A person who can use magic to casts spells.
 Magic can be defined as a system that utilizes different techniques to affect changes in both the physical and metaphysical world.
 
 It achieves this by manipulating various states and energies in the world, which results in extraordinary phenomena that can go beyond the limits of natural laws.
+
+
+# Mana required per spell level
+
+$$
+f(x) =
+\begin{cases}
+l(n,x)+(t(n,m)-l(n,m)) & \text{if } 0 \leq x < m \\
+t(n,x) & \text{if } m \leq x < 1
+\end{cases}
+$$
+
+$$l(l_n,x) = log(x+1.5)^.25$$
+$$t(t_n,x)=(n*x)^{n+2}$$
+$$m=.5$$
+$$n=tier level$$
+
+
+#### Note
+This is still heavily work in progress and will change in the future.
+
+
+

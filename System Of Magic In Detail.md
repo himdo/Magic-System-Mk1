@@ -1,4 +1,4 @@
-Behind the scenes Magic is really just a programming language that can take in data from the world and the spell caster(s) and can output / interact with the physical world or metaphysical world.
+ Behind the scenes Magic is really just a programming language that can take in data from the world and the spell caster(s) and can output / interact with the physical world or metaphysical world.
 
 An important note is that magic power available 
 

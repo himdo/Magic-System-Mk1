@@ -61,51 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Of Magic In Detail.md",
+                "file": "Definitions.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a200cfbda86c6f68",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "C:\\Projects\\Misc\\Magic-System-Mk1",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 102,
-                    "data": "\r\nC:\\Projects\\Misc\\Magic-System-Mk1>\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\n\r\n\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   Magical Items.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mCreated Spells/Template.md\r\n\u001b[8C\"Created Spells/Tier \\342\\210\\236/\"\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git add .\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Magical Items.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Created Spells/Template.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Created Spells/Tier ∞/Dimensional Stash.md', LF will be replaced by CRLF the next time Git touches it\r\n\u001b[34Cgit commit -m \"Added a template for spells, added a new spell 'Dimensional Stash'; updated the bag of holding description\" \r\n                                                                                                                        ated the bag of holding description\"                                                                                    \r\n[main ca7b010] Added a template for spells, added a new spell 'Dimensional Stash'; updated the bag of holding description                                                                                                                       \r\n 4 files changed, 158 insertions(+), 40 deletions(-)                                                                    \r\n create mode 100644 Created Spells/Template.md                                                                          \r\n create mode 100644 \"Created Spells/Tier \\342\\210\\236/Dimensional Stash.md\"                                             \r\n                                                                                                                        \r\nC:\\Projects\\Misc\\Magic-System-Mk1>                                                                                      \r\n\u001b[34Cgit push\r\nEnumerating objects: 14, done.                                                                                          \r\nCounting objects: 100% (14/14), done.                                                                                   \r\nDelta compression using up to 16 threads                                                                                \r\nCompressing objects: 100% (8/8), done.                                                                                  \r\nWriting objects: 100% (9/9), 2.97 KiB | 2.97 MiB/s, done.                                             On branch main    \r\nYour branch is up to date with 'origin/main'.                                                                           \r\n                                                                                                                        \r\nChanges not staged for commit:                                                                                          \r\n  (use \"git add <file>...\" to update what will be committed)                                                            \r\n  (use \"git restore <file>...\" to discard changes in working directory)                                                 \r\n        \u001b[31mmodified:   .obsidian/work\u001b[0mgit a\u001b[31m.json                                                                            \r\n\u001b[0m        \u001b[31mmodified:   \"Created Spells/Tier \\342\\210\\236/Dimensional Stash.md\"                                             \r\n\u001b[0m                                                                                                                        \r\nno changes added to commit (use \"git add\" and/or \"git commit -a\")                                                       \r\n                                                                                                                        \r\nC:\\Projects\\Misc\\Magic-System-Mk1>                                                                                      \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[43A\u001b[39C",
-                    "rows": 73
-                  }
-                }
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Definitions.md"
+              }
             }
           },
           {
@@ -238,10 +205,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a200cfbda86c6f68",
+  "active": "08d2d105083009bd",
   "lastOpenFiles": [
-    "Created Spells/Tier ∞/Dimensional Stash.md",
     "System Of Magic In Detail.md",
+    "Created Spells/Tier ∞/Dimensional Stash.md",
     "Definitions.md",
     "Magical Items.md",
     "Created Spells/Template.md",
