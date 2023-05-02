@@ -12,7 +12,7 @@ Each tier of this spell that is cast becomes a unique stash which does not overl
 DEFINE TYPE RITUAL
 
 FUNC Main () {
-  
+  CombineElements([Elements.Space, Elements.Earth, Elements.Time]).Form(Forms.Conjure).cast()
 }
 ```
 

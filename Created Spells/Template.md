@@ -7,7 +7,7 @@ Some note that is relative,
 
 # Code
 ```
-DEFINE TYPE SUSTAIN
+DEFINE TYPE SUSTAIN RITUAL INCANTATION
 
 FUNC Main () {
   

@@ -7,7 +7,7 @@ Creates a small fire continuous fire at range 0 from caster. This spell is susta
 DEFINE TYPE SUSTAIN
 
 FUNC Main () {
-  Create(Element.Fire, 0)
+  CombineElements([Elements.Fire]).Form(Forms.Conjure).cast()
 }
 ```
 
