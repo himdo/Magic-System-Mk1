@@ -4,97 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e5c3f9ebcacf36",
-        "type": "split",
+        "id": "77effea9fae19674",
+        "type": "tabs",
+        "dimension": 46.79602888086642,
         "children": [
           {
-            "id": "77effea9fae19674",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "08cfeede55d06325",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Created Spells/Tier ∞/Dimensional Stash.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3cea1b558626b368",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magical Items.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e6fbd50263dbf045",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "System Of Magic In Detail.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "08cfeede55d06325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Created Spells/Tier ∞/Dimensional Stash.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "487ccd7fa3921e47",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3c43c3ccd0a8f728",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Projects\\Misc\\Magic-System-Mk1",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 103,
-                        "data": "git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\n\r\n\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   Created Spells/Template.md\r\n\u001b[8Cmodified:   Created Spells/Tier 0/Flame.md\r\n\u001b[8Cmodified:   \"Created Spells/Tier \\342\\210\\236/Dimensional Stash.md\"\r\n\u001b[8Cmodified:   Magical Items.md\r\n\u001b[8Cmodified:   System Of Magic In Detail.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mCreated Spells/Tier 0/Minor Heal.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git ",
-                        "rows": 33
-                      }
-                    }
-                  },
-                  "pinned": true
-                }
+            "id": "3cea1b558626b368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/World Features.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "08a40d02699667b2",
+        "type": "tabs",
+        "dimension": 53.20397111913358,
+        "children": [
+          {
+            "id": "ec3c51276c2dbdb6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "World/World Map.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,6 +95,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "17166339bbd9a9f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -160,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World/World Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World/World Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World/World Features.md"
+              }
             }
           },
           {
@@ -224,25 +192,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c43c3ccd0a8f728",
+  "active": "3cea1b558626b368",
   "lastOpenFiles": [
-    "Magical Items.md",
-    "System Of Magic In Detail.md",
-    "Created Spells/Tier 0/Minor Heal.md",
+    "World/World Map.md",
+    "World/World Features.md",
     "Created Spells/Tier ∞/Dimensional Stash.md",
-    "Created Spells/Tier 0/Flame.md",
+    "World/Seas/Untitled.md",
+    "World/Seas/Great Ocean",
+    "World/Seas/Aquilonian Sea",
+    "World/Seas/Meridian Sea",
+    "World/Seas/Serene Sea",
+    "World/Seas",
+    "World/Continents/Zenithia",
+    "World/Continents/Terra Nova",
+    "World/Continents/Aquilonia",
+    "World/Continents/Meridian",
+    "World/Continents/Eryndor",
+    "World/Untitled.canvas",
+    "System Of Magic In Detail.md",
     "Created Spells/Tier 1/Conjure Gold.md",
+    "Magical Items.md",
+    "Created Spells/Tier 0/Minor Heal.md",
+    "Created Spells/Tier 0/Flame.md",
     "Created Spells/Template.md",
     "Definitions.md",
     "Untitled.md",
-    "Created Spells/Tier ∞",
-    "Created Spells/Tier 1",
-    "Created Spells/Tier 0",
     "Definition Of Magic.md",
-    "Created Spells",
     "Untitled.canvas"
   ]
 }
