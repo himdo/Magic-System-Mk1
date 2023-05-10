@@ -4,53 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "77effea9fae19674",
-        "type": "tabs",
-        "dimension": 46.79602888086642,
+        "id": "a0c79326fcd23b12",
+        "type": "split",
         "children": [
           {
-            "id": "08cfeede55d06325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Created Spells/Tier ∞/Dimensional Stash.md",
-                "mode": "source",
-                "source": false
+            "id": "77effea9fae19674",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "08cfeede55d06325",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Created Spells/Tier ∞/Dimensional Stash.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3cea1b558626b368",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Definitions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "dbb159bc7b1fa277",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World/Seas/Serene Sea/TODO.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ec3c51276c2dbdb6",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "World/World Map.md"
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "3cea1b558626b368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/World Features.md",
-                "mode": "source",
-                "source": false
+            "id": "272969b9bb459600",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "717477cc403e323f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Projects\\Misc\\Magic-System-Mk1",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 250,
+                        "data": "\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\n\r\n\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mWorld/Continents/\r\n\u001b[8CWorld/Seas/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git add ",
+                        "rows": 33
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "08a40d02699667b2",
-        "type": "tabs",
-        "dimension": 53.20397111913358,
-        "children": [
-          {
-            "id": "ec3c51276c2dbdb6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "World/World Map.md"
-              }
-            }
-          }
-        ]
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -124,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/World Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +194,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/World Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +215,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World/World Features.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,10 +246,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3cea1b558626b368",
+  "active": "717477cc403e323f",
   "lastOpenFiles": [
-    "World/World Map.md",
+    "World/Seas/Serene Sea/TODO.md",
+    "World/Seas/Meridian Sea/TODO.md",
+    "World/Seas/Great Ocean/TODO.md",
+    "World/Seas/Aquilonian Sea/TODO.md",
+    "World/Continents/Zenithia/TODO.md",
+    "World/Continents/Terra Nova/TODO.md",
+    "World/Continents/Meridian/TODO.md",
+    "World/Continents/Eryndor/TODO.md",
+    "World/Continents/Aquilonia/TODO.md",
+    "Magical Items.md",
+    "System Of Magic In Detail.md",
+    "Definitions.md",
     "World/World Features.md",
+    "World/World Map.md",
     "Created Spells/Tier ∞/Dimensional Stash.md",
     "World/Seas/Untitled.md",
     "World/Seas/Great Ocean",
@@ -213,13 +275,10 @@
     "World/Continents/Meridian",
     "World/Continents/Eryndor",
     "World/Untitled.canvas",
-    "System Of Magic In Detail.md",
     "Created Spells/Tier 1/Conjure Gold.md",
-    "Magical Items.md",
     "Created Spells/Tier 0/Minor Heal.md",
     "Created Spells/Tier 0/Flame.md",
     "Created Spells/Template.md",
-    "Definitions.md",
     "Untitled.md",
     "Definition Of Magic.md",
     "Untitled.canvas"
