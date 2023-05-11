@@ -1,0 +1,1 @@
+The Serene Sea is located in the eastern hemisphere and is bordered by Zenithia to the north, Terra Nova to the south, and Eryndor to the west. It is connected to the Meridian Sea via a narrow strait to the east. The Serene Sea is known for its calm waters and diverse marine life, including schools of colorful fish, dolphins, and whales.

@@ -1,0 +1,1 @@
+Meridian is a long and narrow continent that stretches across the equator. It is mostly covered in desert and savanna, with occasional oases and small forests. Meridian is home to several nomadic tribes that have adapted to the harsh climate, as well as to some of the planet's most unique creatures, such as giant sandworms and fire-breathing lizards.

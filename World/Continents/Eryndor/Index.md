@@ -1,0 +1,1 @@
+Eryndor is the largest continent on the planet and is characterized by dense rainforests, towering mountains, and vast grasslands. The continent is also home to several active volcanoes that have created stunning natural formations such as hot springs and geysers. Eryndor is known for its diverse wildlife, including colorful birds, primates, and big cats.

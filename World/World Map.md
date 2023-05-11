@@ -16,31 +16,31 @@ E ^mm4wyiDG
 
 W ^jESVkCjC
 
-Zenithia ^KA8lpyhN
+[[Zenithia]] ^KA8lpyhN
 
-Terra Nova ^vG4qLxjU
+[[Terra Nova]] ^vG4qLxjU
 
-Serene Sea ^hJH0eu2I
+[[Serene Sea]] ^hJH0eu2I
 
-Eryndor ^yRfoCxdS
+[[Eryndor]] ^yRfoCxdS
 
-Meridian Sea ^Fk03yGQD
+[[Meridian Sea]] ^Fk03yGQD
 
-Meridian ^ppbsZxmr
+[[Meridian]] ^ppbsZxmr
 
-Great Ocean ^FnBtQ58c
+[[Great Ocean]] ^FnBtQ58c
 
-Aquilonian Sea ^4FlnbIft
+[[Aquilonian Sea]] ^4FlnbIft
 
-Aquilonia ^PVjkXJSO
+[[Aquilonia]] ^PVjkXJSO
 
-Fish Hook Islands ^wP7ltolK
+[[Fish Hook Islands]] ^wP7ltolK
 
-Great Ocean ^FSgz73Ga
+[[Great Ocean]] ^FSgz73Ga
 
-Coral Atoll ^eicJqwHo
+[[Coral Atoll]] ^eicJqwHo
 
-Celestial Archipelago ^dtxDKOhq
+[[Celestial Archipelago]] ^dtxDKOhq
 
 %%
 # Drawing
@@ -52,8 +52,8 @@ Celestial Archipelago ^dtxDKOhq
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 226,
-			"versionNonce": 929984069,
+			"version": 227,
+			"versionNonce": 1557421305,
 			"isDeleted": false,
 			"id": "fgB3ZbGkxiu5vphxRla3Z",
 			"fillStyle": "hachure",
@@ -79,14 +79,14 @@ Celestial Archipelago ^dtxDKOhq
 					"type": "arrow"
 				}
 			],
-			"updated": 1683683308857,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 93,
-			"versionNonce": 262816907,
+			"version": 94,
+			"versionNonce": 1323748119,
 			"isDeleted": false,
 			"id": "ZEGwqg1ICTDNRjgOVUDEh",
 			"fillStyle": "hachure",
@@ -107,7 +107,7 @@ Celestial Archipelago ^dtxDKOhq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683683308857,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -128,8 +128,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "arrow",
-			"version": 199,
-			"versionNonce": 1249009061,
+			"version": 200,
+			"versionNonce": 269506009,
 			"isDeleted": false,
 			"id": "DeCBJPOvlyT7XkWLYA76g",
 			"fillStyle": "hachure",
@@ -150,7 +150,7 @@ Celestial Archipelago ^dtxDKOhq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683683308857,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -175,8 +175,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "arrow",
-			"version": 141,
-			"versionNonce": 312965931,
+			"version": 142,
+			"versionNonce": 2016104503,
 			"isDeleted": false,
 			"id": "1FcHMGVJvS3n8lE3tTdU_",
 			"fillStyle": "hachure",
@@ -197,7 +197,7 @@ Celestial Archipelago ^dtxDKOhq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683683308857,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -218,8 +218,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "arrow",
-			"version": 107,
-			"versionNonce": 1778475269,
+			"version": 108,
+			"versionNonce": 1863987897,
 			"isDeleted": false,
 			"id": "bBT5UmAmYYcqfUCj0VqHo",
 			"fillStyle": "hachure",
@@ -240,7 +240,7 @@ Celestial Archipelago ^dtxDKOhq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683683308857,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -261,8 +261,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 81,
-			"versionNonce": 973397451,
+			"version": 82,
+			"versionNonce": 1289892183,
 			"isDeleted": false,
 			"id": "wqOFm7Uz",
 			"fillStyle": "hachure",
@@ -281,7 +281,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308857,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -297,8 +297,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 2073622629,
+			"version": 85,
+			"versionNonce": 244675481,
 			"isDeleted": false,
 			"id": "VCVfgZLl",
 			"fillStyle": "hachure",
@@ -317,7 +317,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308857,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -333,8 +333,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 83,
-			"versionNonce": 1625091179,
+			"version": 84,
+			"versionNonce": 1717562999,
 			"isDeleted": false,
 			"id": "mm4wyiDG",
 			"fillStyle": "hachure",
@@ -353,7 +353,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308857,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -369,8 +369,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 82,
-			"versionNonce": 1493607365,
+			"version": 83,
+			"versionNonce": 582326393,
 			"isDeleted": false,
 			"id": "jESVkCjC",
 			"fillStyle": "hachure",
@@ -389,7 +389,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308857,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -405,8 +405,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 1105,
-			"versionNonce": 452601611,
+			"version": 1106,
+			"versionNonce": 1063847831,
 			"isDeleted": false,
 			"id": "0Z2ebxCm3i3Tty-BiARKc",
 			"fillStyle": "hachure",
@@ -425,7 +425,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308857,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1968,8 +1968,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 369,
-			"versionNonce": 1181213477,
+			"version": 390,
+			"versionNonce": 222175577,
 			"isDeleted": false,
 			"id": "KA8lpyhN",
 			"fillStyle": "hachure",
@@ -1978,34 +1978,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 102.85965206748563,
-			"y": -7.1689330653142065,
+			"x": 62.85965206748563,
+			"y": 12.090303588331551,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 111.2999267578125,
+			"width": 205.2412109375,
 			"height": 35,
 			"seed": 196896331,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Zenithia]]",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "Zenithia",
-			"rawText": "Zenithia",
+			"text": "📍[[Zenithia]]",
+			"rawText": "[[Zenithia]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Zenithia",
+			"originalText": "📍[[Zenithia]]",
 			"lineHeight": 1.25,
 			"baseline": 24
 		},
 		{
 			"type": "freedraw",
-			"version": 1287,
-			"versionNonce": 517410219,
+			"version": 1288,
+			"versionNonce": 103939255,
 			"isDeleted": false,
 			"id": "aogJ2IbA90_gSOTy26Euv",
 			"fillStyle": "hachure",
@@ -2024,7 +2024,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5171,8 +5171,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 357,
-			"versionNonce": 673855109,
+			"version": 363,
+			"versionNonce": 729976377,
 			"isDeleted": false,
 			"id": "vG4qLxjU",
 			"fillStyle": "hachure",
@@ -5185,30 +5185,30 @@ Celestial Archipelago ^dtxDKOhq
 			"y": 478.5855385629755,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 161.4479522705078,
+			"width": 255.3892364501953,
 			"height": 35,
 			"seed": 617399147,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Terra Nova]]",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "Terra Nova",
-			"rawText": "Terra Nova",
+			"text": "📍[[Terra Nova]]",
+			"rawText": "[[Terra Nova]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Terra Nova",
+			"originalText": "📍[[Terra Nova]]",
 			"lineHeight": 1.25,
 			"baseline": 24
 		},
 		{
 			"type": "text",
-			"version": 344,
-			"versionNonce": 1872633931,
+			"version": 388,
+			"versionNonce": 777997783,
 			"isDeleted": false,
 			"id": "hJH0eu2I",
 			"fillStyle": "hachure",
@@ -5217,34 +5217,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -40.017667268451646,
-			"y": 262.1117065831234,
+			"x": -131.869338275396,
+			"y": 263.5933689095123,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 196.84793090820312,
+			"width": 317.6296081542969,
 			"height": 45,
 			"seed": 155973419,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Serene Sea]]",
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "Serene Sea",
-			"rawText": "Serene Sea",
+			"text": "📍[[Serene Sea]]",
+			"rawText": "[[Serene Sea]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Serene Sea",
+			"originalText": "📍[[Serene Sea]]",
 			"lineHeight": 1.25,
 			"baseline": 31
 		},
 		{
 			"type": "text",
-			"version": 290,
-			"versionNonce": 2030771685,
+			"version": 315,
+			"versionNonce": 1684430617,
 			"isDeleted": false,
 			"id": "yRfoCxdS",
 			"fillStyle": "hachure",
@@ -5253,34 +5253,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -480.0525633159433,
-			"y": 12.48019188328783,
+			"x": -517.0897811978876,
+			"y": 30.25796966106566,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 100.60394287109375,
+			"width": 194.54522705078125,
 			"height": 35,
 			"seed": 1263925995,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Eryndor]]",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "Eryndor",
-			"rawText": "Eryndor",
+			"text": "📍[[Eryndor]]",
+			"rawText": "[[Eryndor]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Eryndor",
+			"originalText": "📍[[Eryndor]]",
 			"lineHeight": 1.25,
 			"baseline": 24
 		},
 		{
 			"type": "text",
-			"version": 471,
-			"versionNonce": 1193926379,
+			"version": 494,
+			"versionNonce": 1124432631,
 			"isDeleted": false,
 			"id": "Fk03yGQD",
 			"fillStyle": "hachure",
@@ -5289,34 +5289,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 563.4210984079466,
-			"y": 282.00652694702126,
+			"x": 527.865542852391,
+			"y": 289.41402477688234,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 223.41590881347656,
+			"width": 344.19757080078125,
 			"height": 45,
 			"seed": 164674821,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Meridian Sea]]",
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "Meridian Sea",
-			"rawText": "Meridian Sea",
+			"text": "📍[[Meridian Sea]]",
+			"rawText": "[[Meridian Sea]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Meridian Sea",
+			"originalText": "📍[[Meridian Sea]]",
 			"lineHeight": 1.25,
 			"baseline": 31
 		},
 		{
 			"type": "freedraw",
-			"version": 652,
-			"versionNonce": 1579333,
+			"version": 653,
+			"versionNonce": 1985811449,
 			"isDeleted": false,
 			"id": "kQX_la8JpeoZquiSaG-sk",
 			"fillStyle": "hachure",
@@ -5335,7 +5335,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7242,8 +7242,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 112,
-			"versionNonce": 1074055563,
+			"version": 134,
+			"versionNonce": 2024342551,
 			"isDeleted": false,
 			"id": "ppbsZxmr",
 			"fillStyle": "hachure",
@@ -7252,34 +7252,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 665.8772815905118,
-			"y": 177.5327784889622,
+			"x": 621.432837146067,
+			"y": 189.3845851295872,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 108.75193786621094,
+			"width": 202.69322204589844,
 			"height": 35,
 			"seed": 1433883851,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Meridian]]",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "Meridian",
-			"rawText": "Meridian",
+			"text": "📍[[Meridian]]",
+			"rawText": "[[Meridian]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Meridian",
+			"originalText": "📍[[Meridian]]",
 			"lineHeight": 1.25,
 			"baseline": 24
 		},
 		{
 			"type": "text",
-			"version": 335,
-			"versionNonce": 1185851557,
+			"version": 360,
+			"versionNonce": 90844377,
 			"isDeleted": false,
 			"id": "FnBtQ58c",
 			"fillStyle": "hachure",
@@ -7288,34 +7288,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -849.4913707532378,
-			"y": 405.3748644778602,
+			"x": -890.9730330796267,
+			"y": 424.63403331466566,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 230.65191650390625,
+			"width": 351.43359375,
 			"height": 45,
 			"seed": 511394757,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Great Ocean]]",
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "Great Ocean",
-			"rawText": "Great Ocean",
+			"text": "📍[[Great Ocean]]",
+			"rawText": "[[Great Ocean]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Great Ocean",
+			"originalText": "📍[[Great Ocean]]",
 			"lineHeight": 1.25,
 			"baseline": 31
 		},
 		{
 			"type": "text",
-			"version": 231,
-			"versionNonce": 1063870507,
+			"version": 281,
+			"versionNonce": 2134796599,
 			"isDeleted": false,
 			"id": "4FlnbIft",
 			"fillStyle": "hachure",
@@ -7324,34 +7324,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -236.5787730969878,
-			"y": 690.4274510835344,
+			"x": -307.6898842080991,
+			"y": 683.020088887354,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 250.12791442871094,
+			"width": 370.90960693359375,
 			"height": 45,
 			"seed": 761234123,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Aquilonian Sea]]",
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "Aquilonian Sea",
-			"rawText": "Aquilonian Sea",
+			"text": "📍[[Aquilonian Sea]]",
+			"rawText": "[[Aquilonian Sea]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Aquilonian Sea",
+			"originalText": "📍[[Aquilonian Sea]]",
 			"lineHeight": 1.25,
 			"baseline": 31
 		},
 		{
 			"type": "freedraw",
-			"version": 195,
-			"versionNonce": 1316768773,
+			"version": 196,
+			"versionNonce": 1763781049,
 			"isDeleted": false,
 			"id": "MBaGmKeWidIEzfkXem-ab",
 			"fillStyle": "hachure",
@@ -7370,7 +7370,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8081,8 +8081,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 76,
-			"versionNonce": 524427979,
+			"version": 115,
+			"versionNonce": 338307671,
 			"isDeleted": false,
 			"id": "PVjkXJSO",
 			"fillStyle": "hachure",
@@ -8091,34 +8091,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 52.54399108886719,
+			"x": 3.655102199978046,
 			"y": 734.725868024324,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 116.45193481445312,
+			"width": 210.39321899414062,
 			"height": 35,
 			"seed": 1309263883,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Aquilonia]]",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "Aquilonia",
-			"rawText": "Aquilonia",
+			"text": "📍[[Aquilonia]]",
+			"rawText": "[[Aquilonia]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Aquilonia",
+			"originalText": "📍[[Aquilonia]]",
 			"lineHeight": 1.25,
 			"baseline": 24
 		},
 		{
 			"type": "freedraw",
-			"version": 179,
-			"versionNonce": 125731685,
+			"version": 180,
+			"versionNonce": 983927449,
 			"isDeleted": false,
 			"id": "A_3Wez-2QRCUfvpjBbPyn",
 			"fillStyle": "hachure",
@@ -8137,7 +8137,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8672,8 +8672,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 180,
-			"versionNonce": 405377387,
+			"version": 181,
+			"versionNonce": 1413531511,
 			"isDeleted": false,
 			"id": "IUjcVvFPxXeQZYSmy3YQa",
 			"fillStyle": "hachure",
@@ -8692,7 +8692,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9363,8 +9363,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 164,
-			"versionNonce": 100847301,
+			"version": 165,
+			"versionNonce": 581619577,
 			"isDeleted": false,
 			"id": "pC0cP6dtv94A-MUjOH-_0",
 			"fillStyle": "hachure",
@@ -9383,7 +9383,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9986,8 +9986,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 132,
-			"versionNonce": 1802120203,
+			"version": 133,
+			"versionNonce": 1304871063,
 			"isDeleted": false,
 			"id": "yZQgvzlHTCW8JIf_1r3jL",
 			"fillStyle": "hachure",
@@ -10006,7 +10006,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10481,8 +10481,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 2024189477,
+			"version": 136,
+			"versionNonce": 1735686233,
 			"isDeleted": false,
 			"id": "Cs6bfXisAec0KmCDLviq8",
 			"fillStyle": "hachure",
@@ -10501,7 +10501,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10908,8 +10908,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 166,
-			"versionNonce": 1291743915,
+			"version": 167,
+			"versionNonce": 1383110071,
 			"isDeleted": false,
 			"id": "BRMz1NHcR5L2Vj2g4cRxT",
 			"fillStyle": "hachure",
@@ -10928,7 +10928,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11223,8 +11223,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 174,
-			"versionNonce": 1582801285,
+			"version": 175,
+			"versionNonce": 987104569,
 			"isDeleted": false,
 			"id": "H-qjA1vIrUjKSePLxAj8b",
 			"fillStyle": "hachure",
@@ -11243,7 +11243,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11774,8 +11774,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 227599691,
+			"version": 111,
+			"versionNonce": 157468375,
 			"isDeleted": false,
 			"id": "O4Ke_Dy5mGmcgwiEf_xK_",
 			"fillStyle": "hachure",
@@ -11794,7 +11794,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12105,8 +12105,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 2085824741,
+			"version": 122,
+			"versionNonce": 1808541273,
 			"isDeleted": false,
 			"id": "wP7ltolK",
 			"fillStyle": "hachure",
@@ -12115,34 +12115,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -715.7413724957092,
+			"x": -736.4822036589038,
 			"y": 560.313268557461,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 137.1678924560547,
+			"width": 190.84861755371094,
 			"height": 20,
 			"seed": 382333445,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776242735,
+			"link": "[[Fish Hook Islands]]",
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "Fish Hook Islands",
-			"rawText": "Fish Hook Islands",
+			"text": "📍[[Fish Hook Islands]]",
+			"rawText": "[[Fish Hook Islands]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Fish Hook Islands",
+			"originalText": "📍[[Fish Hook Islands]]",
 			"lineHeight": 1.25,
 			"baseline": 14
 		},
 		{
 			"type": "text",
-			"version": 102,
-			"versionNonce": 75236331,
+			"version": 129,
+			"versionNonce": 1093784567,
 			"isDeleted": false,
 			"id": "FSgz73Ga",
 			"fillStyle": "hachure",
@@ -12151,34 +12151,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 615.4508679014261,
-			"y": -112.32696017641092,
+			"x": 582.858365731287,
+			"y": -107.88251573196646,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 230.65191650390625,
+			"width": 351.43359375,
 			"height": 45,
 			"seed": 68263813,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Great Ocean]]",
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "Great Ocean",
-			"rawText": "Great Ocean",
+			"text": "📍[[Great Ocean]]",
+			"rawText": "[[Great Ocean]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Great Ocean",
+			"originalText": "📍[[Great Ocean]]",
 			"lineHeight": 1.25,
 			"baseline": 31
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 338084933,
+			"version": 98,
+			"versionNonce": 41863929,
 			"isDeleted": false,
 			"id": "Yzr6dblMrK2sxIeRr2mob",
 			"fillStyle": "hachure",
@@ -12197,7 +12197,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12536,8 +12536,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 134,
-			"versionNonce": 969559691,
+			"version": 153,
+			"versionNonce": 31603991,
 			"isDeleted": false,
 			"id": "eicJqwHo",
 			"fillStyle": "hachure",
@@ -12546,34 +12546,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 755.4506237608011,
+			"x": 727.3025660351068,
 			"y": 379.50635281187033,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 85.74392700195312,
+			"width": 139.42465209960938,
 			"height": 20,
 			"seed": 1469406603,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Coral Atoll]]",
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "Coral Atoll",
-			"rawText": "Coral Atoll",
+			"text": "📍[[Coral Atoll]]",
+			"rawText": "[[Coral Atoll]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Coral Atoll",
+			"originalText": "📍[[Coral Atoll]]",
 			"lineHeight": 1.25,
 			"baseline": 14
 		},
 		{
 			"type": "freedraw",
-			"version": 177,
-			"versionNonce": 1504703397,
+			"version": 178,
+			"versionNonce": 842859481,
 			"isDeleted": false,
 			"id": "W0T9UmVdO2OP26nNtGZjB",
 			"fillStyle": "hachure",
@@ -12592,7 +12592,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13015,8 +13015,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "text",
-			"version": 76,
-			"versionNonce": 1345733931,
+			"version": 111,
+			"versionNonce": 1592295991,
 			"isDeleted": false,
 			"id": "dtxDKOhq",
 			"fillStyle": "hachure",
@@ -13025,34 +13025,34 @@ Celestial Archipelago ^dtxDKOhq
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 760.1171276670511,
+			"x": 724.5615721114955,
 			"y": -269.6603036822703,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 161.3438720703125,
+			"width": 215.02459716796875,
 			"height": 20,
 			"seed": 1483313003,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
-			"link": null,
+			"updated": 1683776241170,
+			"link": "[[Celestial Archipelago]]",
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "Celestial Archipelago",
-			"rawText": "Celestial Archipelago",
+			"text": "📍[[Celestial Archipelago]]",
+			"rawText": "[[Celestial Archipelago]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Celestial Archipelago",
+			"originalText": "📍[[Celestial Archipelago]]",
 			"lineHeight": 1.25,
 			"baseline": 14
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 689714949,
+			"version": 46,
+			"versionNonce": 1132535993,
 			"isDeleted": false,
 			"id": "R1ZsrksvtturxVIS14sOb",
 			"fillStyle": "hachure",
@@ -13071,7 +13071,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13198,8 +13198,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 791308235,
+			"version": 69,
+			"versionNonce": 153690967,
 			"isDeleted": false,
 			"id": "Chcrd8j1Pl31Psl04qaHT",
 			"fillStyle": "hachure",
@@ -13218,7 +13218,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13437,8 +13437,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 2095648357,
+			"version": 66,
+			"versionNonce": 1408147865,
 			"isDeleted": false,
 			"id": "YgH5sTZzXRTUAuMZnWrsq",
 			"fillStyle": "hachure",
@@ -13457,7 +13457,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13664,8 +13664,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1824601707,
+			"version": 79,
+			"versionNonce": 553164919,
 			"isDeleted": false,
 			"id": "RNTTePbRkBynHY6mcX6hs",
 			"fillStyle": "hachure",
@@ -13684,7 +13684,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13943,8 +13943,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 602143173,
+			"version": 49,
+			"versionNonce": 12125817,
 			"isDeleted": false,
 			"id": "yWFY2DYiMPqAX5lLi-684",
 			"fillStyle": "hachure",
@@ -13963,7 +13963,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14102,8 +14102,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 2009411851,
+			"version": 65,
+			"versionNonce": 1209760151,
 			"isDeleted": false,
 			"id": "auTiH_mVkLKXS_o98Ycxt",
 			"fillStyle": "hachure",
@@ -14122,7 +14122,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14325,8 +14325,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 925530405,
+			"version": 54,
+			"versionNonce": 1956892505,
 			"isDeleted": false,
 			"id": "bFFx3vBL1WfHPsphkMKZD",
 			"fillStyle": "hachure",
@@ -14345,7 +14345,7 @@ Celestial Archipelago ^dtxDKOhq
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683683308858,
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14504,8 +14504,8 @@ Celestial Archipelago ^dtxDKOhq
 		},
 		{
 			"type": "freedraw",
-			"version": 813,
-			"versionNonce": 28366763,
+			"version": 814,
+			"versionNonce": 1942367927,
 			"isDeleted": false,
 			"id": "EPF6zBitTs5b-ZuJQ76J7",
 			"fillStyle": "hachure",
@@ -14523,8 +14523,8 @@ Celestial Archipelago ^dtxDKOhq
 			"seed": 1341230347,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
-			"updated": 1683683308858,
+			"boundElements": [],
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17765,36 +17765,33 @@ Celestial Archipelago ^dtxDKOhq
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.6666259765625,
-				-5.333343505859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
 			"pressures": []
 		},
 		{
-			"id": "xilk0E_ep2sFYVAZOce5C",
 			"type": "freedraw",
-			"x": -771.4231719970703,
-			"y": -318.9381835892882,
-			"width": 20,
-			"height": 12.666671752929688,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 79,
+			"versionNonce": 906132537,
+			"isDeleted": false,
+			"id": "xilk0E_ep2sFYVAZOce5C",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -771.4231719970703,
+			"y": -318.9381835892882,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 12.666671752929688,
+			"seed": 682535499,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 682535499,
-			"version": 78,
-			"versionNonce": 441569451,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1683683324860,
+			"boundElements": [],
+			"updated": 1683776241170,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18099,660 +18096,9 @@ Celestial Archipelago ^dtxDKOhq
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-2.66668701171875,
-				0.6666717529296875
-			]
-		},
-		{
-			"id": "Yp4oxhV77zkGJWWs28YUp",
-			"type": "freedraw",
-			"x": -21.42304992675804,
-			"y": -372.27149657756945,
-			"width": 172,
-			"height": 23.333328247070312,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 608201285,
-			"version": 137,
-			"versionNonce": 816543237,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1683683306533,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.666656494140625
-				],
-				[
-					0,
-					1.3333282470703125
-				],
-				[
-					0,
-					2
-				],
-				[
-					0,
-					2.666656494140625
-				],
-				[
-					0,
-					3.3333282470703125
-				],
-				[
-					0.6666259765625,
-					4
-				],
-				[
-					1.333251953125,
-					6
-				],
-				[
-					2,
-					6.666656494140625
-				],
-				[
-					2,
-					7.3333282470703125
-				],
-				[
-					2,
-					8
-				],
-				[
-					2,
-					8.666656494140625
-				],
-				[
-					2.6666259765625,
-					8.666656494140625
-				],
-				[
-					3.333251953125,
-					9.333328247070312
-				],
-				[
-					3.333251953125,
-					10
-				],
-				[
-					4.6666259765625,
-					10.666656494140625
-				],
-				[
-					6,
-					10.666656494140625
-				],
-				[
-					6.6666259765625,
-					10.666656494140625
-				],
-				[
-					7.333251953125,
-					10.666656494140625
-				],
-				[
-					8,
-					10.666656494140625
-				],
-				[
-					9.333251953125,
-					11.333328247070312
-				],
-				[
-					10,
-					12
-				],
-				[
-					10.6666259765625,
-					12
-				],
-				[
-					11.333251953125,
-					12.666656494140625
-				],
-				[
-					12,
-					13.333328247070312
-				],
-				[
-					13.333251953125,
-					14
-				],
-				[
-					15.333251953125,
-					14
-				],
-				[
-					16.6666259765625,
-					14
-				],
-				[
-					18.6666259765625,
-					14
-				],
-				[
-					20,
-					14
-				],
-				[
-					21.333251953125,
-					14
-				],
-				[
-					22,
-					14
-				],
-				[
-					22.6666259765625,
-					14
-				],
-				[
-					23.333251953125,
-					14
-				],
-				[
-					24,
-					14
-				],
-				[
-					26.6666259765625,
-					14
-				],
-				[
-					28,
-					14
-				],
-				[
-					30,
-					14
-				],
-				[
-					32.6666259765625,
-					14
-				],
-				[
-					35.333251953125,
-					13.333328247070312
-				],
-				[
-					36,
-					13.333328247070312
-				],
-				[
-					37.333251953125,
-					13.333328247070312
-				],
-				[
-					38,
-					13.333328247070312
-				],
-				[
-					38.6666259765625,
-					13.333328247070312
-				],
-				[
-					39.333251953125,
-					13.333328247070312
-				],
-				[
-					40.6666259765625,
-					13.333328247070312
-				],
-				[
-					42,
-					13.333328247070312
-				],
-				[
-					43.333251953125,
-					13.333328247070312
-				],
-				[
-					45.333251953125,
-					13.333328247070312
-				],
-				[
-					46.6666259765625,
-					13.333328247070312
-				],
-				[
-					48.6666259765625,
-					12.666656494140625
-				],
-				[
-					50,
-					12
-				],
-				[
-					50.6666259765625,
-					12
-				],
-				[
-					51.333251953125,
-					11.333328247070312
-				],
-				[
-					52,
-					11.333328247070312
-				],
-				[
-					52.6666259765625,
-					11.333328247070312
-				],
-				[
-					54,
-					11.333328247070312
-				],
-				[
-					56.6666259765625,
-					11.333328247070312
-				],
-				[
-					58.6666259765625,
-					11.333328247070312
-				],
-				[
-					60.6666259765625,
-					10.666656494140625
-				],
-				[
-					62,
-					10.666656494140625
-				],
-				[
-					64,
-					10.666656494140625
-				],
-				[
-					64.6666259765625,
-					10.666656494140625
-				],
-				[
-					66,
-					10.666656494140625
-				],
-				[
-					66.6666259765625,
-					10.666656494140625
-				],
-				[
-					68,
-					11.333328247070312
-				],
-				[
-					70,
-					12
-				],
-				[
-					70.6666259765625,
-					12.666656494140625
-				],
-				[
-					72.6666259765625,
-					13.333328247070312
-				],
-				[
-					74.6666259765625,
-					14
-				],
-				[
-					76.6666259765625,
-					14.666656494140625
-				],
-				[
-					78,
-					14.666656494140625
-				],
-				[
-					80,
-					14.666656494140625
-				],
-				[
-					81.333251953125,
-					14.666656494140625
-				],
-				[
-					83.333251953125,
-					14.666656494140625
-				],
-				[
-					85.333251953125,
-					14.666656494140625
-				],
-				[
-					88,
-					14.666656494140625
-				],
-				[
-					89.333251953125,
-					14.666656494140625
-				],
-				[
-					90,
-					14.666656494140625
-				],
-				[
-					95.333251953125,
-					14.666656494140625
-				],
-				[
-					97.333251953125,
-					14.666656494140625
-				],
-				[
-					100,
-					14.666656494140625
-				],
-				[
-					102,
-					14.666656494140625
-				],
-				[
-					104.6666259765625,
-					14.666656494140625
-				],
-				[
-					108,
-					14.666656494140625
-				],
-				[
-					110.6666259765625,
-					14.666656494140625
-				],
-				[
-					113.333251953125,
-					14.666656494140625
-				],
-				[
-					116,
-					15.333328247070312
-				],
-				[
-					118,
-					15.333328247070312
-				],
-				[
-					118.6666259765625,
-					15.333328247070312
-				],
-				[
-					119.333251953125,
-					15.333328247070312
-				],
-				[
-					120,
-					15.333328247070312
-				],
-				[
-					120.6666259765625,
-					15.333328247070312
-				],
-				[
-					122,
-					15.333328247070312
-				],
-				[
-					122.6666259765625,
-					14
-				],
-				[
-					124,
-					11.333328247070312
-				],
-				[
-					124,
-					10
-				],
-				[
-					124.6666259765625,
-					8.666656494140625
-				],
-				[
-					124.6666259765625,
-					8
-				],
-				[
-					125.333251953125,
-					7.3333282470703125
-				],
-				[
-					126,
-					6
-				],
-				[
-					126,
-					5.3333282470703125
-				],
-				[
-					126,
-					4.666656494140625
-				],
-				[
-					128.6666259765625,
-					4
-				],
-				[
-					130,
-					4
-				],
-				[
-					130.6666259765625,
-					4
-				],
-				[
-					132,
-					4
-				],
-				[
-					134,
-					4
-				],
-				[
-					135.333251953125,
-					4
-				],
-				[
-					136.6666259765625,
-					4
-				],
-				[
-					138,
-					4
-				],
-				[
-					139.333251953125,
-					4
-				],
-				[
-					141.333251953125,
-					4
-				],
-				[
-					143.333251953125,
-					4
-				],
-				[
-					145.333251953125,
-					4
-				],
-				[
-					148,
-					3.3333282470703125
-				],
-				[
-					150.6666259765625,
-					2.666656494140625
-				],
-				[
-					152.6666259765625,
-					2
-				],
-				[
-					154.6666259765625,
-					0.666656494140625
-				],
-				[
-					157.333251953125,
-					0.666656494140625
-				],
-				[
-					158,
-					0.666656494140625
-				],
-				[
-					160.6666259765625,
-					0
-				],
-				[
-					162,
-					0
-				],
-				[
-					163.333251953125,
-					-0.6666717529296875
-				],
-				[
-					164.6666259765625,
-					-1.333343505859375
-				],
-				[
-					166,
-					-2
-				],
-				[
-					167.333251953125,
-					-3.333343505859375
-				],
-				[
-					168.6666259765625,
-					-4
-				],
-				[
-					169.333251953125,
-					-4.6666717529296875
-				],
-				[
-					170,
-					-6
-				],
-				[
-					170.6666259765625,
-					-6.6666717529296875
-				],
-				[
-					171.333251953125,
-					-7.333343505859375
-				],
-				[
-					172,
-					-7.333343505859375
-				],
-				[
-					172,
-					-8
-				],
-				[
-					172,
-					-8
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				172,
-				-8
-			]
-		},
-		{
-			"id": "HiG0ZdIaCwLemMAe7sjC6",
-			"type": "freedraw",
-			"x": 70.57695007324196,
-			"y": -378.27149657756945,
-			"width": 14,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 443717835,
-			"version": 12,
-			"versionNonce": 1344932997,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1683683308858,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.666748046875,
-					0
-				],
-				[
-					-1.3333740234375,
-					0
-				],
-				[
-					-3.3333740234375,
-					0
-				],
-				[
-					-7.3333740234375,
-					0
-				],
-				[
-					-10,
-					0
-				],
-				[
-					-11.3333740234375,
-					0
-				],
-				[
-					-13.3333740234375,
-					0
-				],
-				[
-					-14,
-					0
-				],
-				[
-					-14,
-					0
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-14,
-				0
-			]
+			"pressures": []
 		}
 	],
 	"appState": {
@@ -18770,10 +18116,10 @@ Celestial Archipelago ^dtxDKOhq
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 998.7564239501953,
-		"scrollY": 397.354885859796,
+		"scrollX": 2464.999954223633,
+		"scrollY": 250.84778096383087,
 		"zoom": {
-			"value": 1.0000000000000002
+			"value": 0.45
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

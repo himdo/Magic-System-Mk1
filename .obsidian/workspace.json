@@ -4,107 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "a0c79326fcd23b12",
-        "type": "split",
+        "id": "77effea9fae19674",
+        "type": "tabs",
+        "dimension": 34.11552346570397,
         "children": [
           {
-            "id": "77effea9fae19674",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "08cfeede55d06325",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Created Spells/Tier ∞/Dimensional Stash.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3cea1b558626b368",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Definitions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "dbb159bc7b1fa277",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World/Seas/Serene Sea/TODO.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ec3c51276c2dbdb6",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "World/World Map.md"
-                  }
-                }
+            "id": "08cfeede55d06325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Continents/Eryndor/Index.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 2
+            }
           },
           {
-            "id": "272969b9bb459600",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "717477cc403e323f",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Projects\\Misc\\Magic-System-Mk1",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 250,
-                        "data": "\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\n\r\n\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mWorld/Continents/\r\n\u001b[8CWorld/Seas/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git add ",
-                        "rows": 33
-                      }
-                    }
+            "id": "717477cc403e323f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Projects\\Misc\\Magic-System-Mk1",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "pinned": true
+                  "serial": {
+                    "columns": 82,
+                    "data": "\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\n\r\n\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mWorld/Continents/\r\n\u001b[8CWorld/Seas/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git add .\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\n\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git commit -m \"added folders for the important parts of the world\" \r\n[main 9d0bfef] added folders for the important parts of the world\r\n 10 files changed, 108 insertions(+), 49 deletions(-)\r\n create mode 100644 World/Continents/Aquilonia/TODO.md\r\n create mode 100644 World/Continents/Eryndor/TODO.md\r\n create mode 100644 World/Continents/Meridian/TODO.md\r\n create mode 100644 World/Continents/Terra Nova/TODO.md\r\n create mode 100644 World/Continents/Zenithia/TODO.md                                                                   \r\n create mode 100644 World/Seas/Aquilonian Sea/TODO.md                                                                   \r\n create mode 100644 World/Seas/Great Ocean/TODO.md                                                                      \r\n create mode 100644 World/Seas/Meridian Sea/TODO.md                                                                     \r\n create mode 100644 World/Seas/Serene Sea/TODO.md                                                                       \r\n                                                                                                                        \r\nC:\\Projects\\Misc\\Magic-System-Mk1>git push                                                                              \r\nEnumerating objects: 13, done.                                                                                          \r\nCounting objects: 100% (13/13), done.                                                                                   \r\nDelta compression using up to 16 threads                                                                                \r\nCompressing objects: 100% (7/7), done.                                                                                  \r\nWriting objects: 100% (9/9), 1.85 KiB | 1.85 MiB/s, done.                                                               \r\nTotal 9 (delta 3), reused 0 (delta 0), pack-reused 0                                                                    \r\nremote: Resolving deltas: 100% (3/3), completed with 3 local objects.                                                   \r\nTo github.com:himdo/Magic-System-Mk1.git                                                                                \r\n   77b9563..9d0bfef  main -> main                                                                                       \r\n                                                                                                                        \r\nC:\\Projects\\Misc\\Magic-System-Mk1>git status                                      \r\n\r\n\r\n\r\n\r\n\r\n\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mdeleted:    World/Continents/Aquilonia/TODO.md\r\n\u001b[0m        \u001b[31mdeleted:    World/Continents/Eryndor/TODO.md\r\n\u001b[0m        \u001b[31mdeleted:    World/Continents/Meridian/TODO.md\r\n\u001b[0m        \u001b[31mdeleted:    World/Continents/Terra Nova/TODO.md\r\n\u001b[0m        \u001b[31mdeleted:    World/Continents/Zenithia/TODO.md\r\n\u001b[0m        \u001b[31mdeleted:    World/Seas/Aquilonian Sea/TODO.md\r\n\u001b[0m        \u001b[31mdeleted:    World/Seas/Great Ocean/TODO.md\r\n\u001b[0m        \u001b[31mdeleted:    World/Seas/Meridian Sea/TODO.md\r\n\u001b[0m        \u001b[31mdeleted:    World/Seas/Serene Sea/TODO.md\r\n\u001b[0m        \u001b[31mmodified:   World/World Map.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mWorld/Continents/Aquilonia/Index.md\r\n\u001b[0m        \u001b[31mWorld/Continents/Eryndor/Eryndor Map.excalidraw.md\r\n\u001b[0m        \u001b[31mWorld/Continents/Eryndor/Index.md\r\n\u001b[0m        \u001b[31mWorld/Continents/Meridian/Index.md\r\n\u001b[0m        \u001b[31mWorld/Continents/Terra Nova/Index.md\r\n\u001b[0m        \u001b[31mWorld/Continents/Zenithia/Index.md\r\n\u001b[0m        \u001b[31mWorld/Seas/Aquilonian Sea/Index.md\r\n\u001b[0m        \u001b[31mWorld/Seas/Great Ocean/Index.md\r\n\u001b[0m        \u001b[31mWorld/Seas/Great Ocean/Islands/\r\n\u001b[0m        \u001b[31mWorld/Seas/Meridian Sea/Index.md\r\n\u001b[0m        \u001b[31mWorld/Seas/Meridian Sea/Islands/\r\n\u001b[0m        \u001b[31mWorld/Seas/Serene Sea/Index.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Projects\\Misc\\Magic-System-Mk1>git a\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[43A\u001b[39C",
+                    "rows": 73
+                  }
                 }
-              }
-            ]
+              },
+              "pinned": true
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "b48b461c26c5c48b",
+        "type": "tabs",
+        "dimension": 65.88447653429603,
+        "children": [
+          {
+            "id": "a24941b5e80bbdb2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "World/Continents/Eryndor/Eryndor Map.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,22 +219,34 @@
   },
   "active": "717477cc403e323f",
   "lastOpenFiles": [
-    "World/Seas/Serene Sea/TODO.md",
-    "World/Seas/Meridian Sea/TODO.md",
-    "World/Seas/Great Ocean/TODO.md",
-    "World/Seas/Aquilonian Sea/TODO.md",
+    "World/Continents/Eryndor/Index.md",
+    "World/Continents/Eryndor/Eryndor Map.excalidraw.md",
+    "Created Spells/Tier ∞/Dimensional Stash.md",
+    "World/Continents/Eryndor/Untitled.canvas",
+    "World/World Map.md",
+    "System Of Magic In Detail.md",
+    "World/Seas/Meridian Sea/Islands/Coral Atoll.md",
+    "World/Seas/Meridian Sea/Untitled.md",
+    "World/Seas/Meridian Sea/Islands",
+    "World/Seas/Meridian Sea/Index.md",
+    "World/Seas/Great Ocean/Islands/Celestial Archipelago.md",
+    "World/Seas/Great Ocean/Islands/Fish Hook Islands.md",
+    "World/Seas/Great Ocean/Islands",
+    "World/Seas/Great Ocean/Index.md",
+    "World/Seas/Aquilonian Sea/Index.md",
+    "World/Seas/Serene Sea/Index.md",
+    "World/Continents/Zenithia/Index.md",
+    "World/Continents/Terra Nova/Index.md",
+    "World/Continents/Meridian/Index.md",
+    "World/Continents/Aquilonia/Index.md",
+    "World/Continents/Aquilonia/TODO.md",
     "World/Continents/Zenithia/TODO.md",
     "World/Continents/Terra Nova/TODO.md",
     "World/Continents/Meridian/TODO.md",
     "World/Continents/Eryndor/TODO.md",
-    "World/Continents/Aquilonia/TODO.md",
     "Magical Items.md",
-    "System Of Magic In Detail.md",
     "Definitions.md",
     "World/World Features.md",
-    "World/World Map.md",
-    "Created Spells/Tier ∞/Dimensional Stash.md",
-    "World/Seas/Untitled.md",
     "World/Seas/Great Ocean",
     "World/Seas/Aquilonian Sea",
     "World/Seas/Meridian Sea",
@@ -272,15 +255,7 @@
     "World/Continents/Zenithia",
     "World/Continents/Terra Nova",
     "World/Continents/Aquilonia",
-    "World/Continents/Meridian",
-    "World/Continents/Eryndor",
     "World/Untitled.canvas",
-    "Created Spells/Tier 1/Conjure Gold.md",
-    "Created Spells/Tier 0/Minor Heal.md",
-    "Created Spells/Tier 0/Flame.md",
-    "Created Spells/Template.md",
-    "Untitled.md",
-    "Definition Of Magic.md",
     "Untitled.canvas"
   ]
 }

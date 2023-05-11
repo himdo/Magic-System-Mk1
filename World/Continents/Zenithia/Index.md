@@ -1,0 +1,1 @@
+Zenithia is a small, isolated continent located in the eastern hemisphere. It is covered in dense forests and rugged mountains, and is known for its natural beauty and tranquility. Zenithia is home to a reclusive group of monks who have mastered the art of meditation and martial arts, and who guard a hidden treasure that is said to grant immense power to whoever possesses it.

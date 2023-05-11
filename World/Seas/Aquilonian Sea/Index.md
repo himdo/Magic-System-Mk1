@@ -1,0 +1,1 @@
+The Aquilonian Sea is located in the southern hemisphere and is bordered by Aquilonia to the south and Eryndor to the north. It is connected to the Great Ocean to the west. The Aquilonian Sea is known for its freezing waters and treacherous ice floes, as well as for its abundance of fish and seals.

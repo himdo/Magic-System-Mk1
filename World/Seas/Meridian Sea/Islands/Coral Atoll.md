@@ -1,0 +1,1 @@
+Coral Atoll is a tiny island located in the Meridian Sea, surrounded by a ring of coral reefs. It is home to a small fishing village that relies on the rich marine life in the surrounding waters for sustenance. Despite its small size, Coral Atoll is known for its vibrant culture and traditions, including colorful festivals and traditional dances.

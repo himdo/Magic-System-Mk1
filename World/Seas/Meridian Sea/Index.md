@@ -1,0 +1,1 @@
+The Meridian Sea is located in the central part of the planet and is bordered by Meridian to the north and Terra Nova to the south. It is connected to the Serene Sea via a narrow strait to the west and to the Great Ocean to the east. The Meridian Sea is known for its warm waters and coral reefs, as well as for its pirate activity.
