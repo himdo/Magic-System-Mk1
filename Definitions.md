@@ -1,11 +1,14 @@
 ### Mana
-The amount of magical power possessed solely by a single person.
+The amount of magical power possessed solely by a single person. Mana is stored in the human body in a small organ located near the kidney, which can grow to hold more mana as the caster gets more experience. This organ is extremely rare and is considered a mutation. It can be transplanted but with extremely low chance of survival form either parties. The name of the organ is Incantorium.
  
 ### Total Spell Power
-The total amount of magical power that a single spell can use, can be calculated by adding the caster(s) [[#Mana]] and the amount of [[#Sacrificial Gold]].
+The total amount of magical power that a single spell can use, can be calculated by adding the caster(s) [[#Mana]] and the amount of [[#Sacrificial Gold]]. In addition to this the casters mood plays a small role in spell power, the more sad / hurt (mentally) the power goes up and someone who is happier has slightly less spell power.
 
 ### Sacrificial Gold
-Sacrificial Gold is gold that is designated to be destroyed by a given spell to achieve higher spell power. Sacrificial Gold is not common knowledge and is only known by a handful of casters.
+Sacrificial Gold is gold that is designated to be destroyed by a given spell to achieve higher spell power. The amount of surface area determines how fast the gold is resolved into energy, where the more surface area the gold will resolve more rapidly creating mana. Gold with small surface area acts more like a trickle of mana where as if it has large amounts it acts more like a capacitor and releases mana faster. However you will have to be careful with how rapidly you extract mana out of gold, too rapidly and you will make a mana bomb. Sacrificial Gold is not common knowledge and is only known by a handful of casters.
+
+### Mana Bomb
+A mana bomb is an explosive that occurs from any device that stores mana, including the human body. The size of the explosion is directly related to the amount of mana that is released and relates similarly to the power of the different spell tiers. The most common reason for a mana bomb explosion to occur is when a form of mana storage device gets overcharge or charges to rapidly. A mana bomb made from a human body is typically very small, for the most part only killing the user. But in a user with a very large Incantorium can become a larger mana bomb.
 
 ### Spell Tier
 Every spell can be ranked into a spell tier. This tier is used as a way to determine the range of [[#Total Spell Power]] required to complete a spell. Each tier requires exponentially more power to cast, however within a given tier the spell cost is fairly linear and only vary by a small amount. There is no limit to the amount of tiers, but there are a couple of important tiers:
